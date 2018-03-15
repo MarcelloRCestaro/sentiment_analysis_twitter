@@ -1,1 +1,1 @@
-# sentiment_analysis_twitter
+# Análise de Sentimento para dataset do Twitter
